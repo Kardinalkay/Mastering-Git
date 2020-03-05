@@ -3,7 +3,7 @@
 
 
 
-alias subl="/C/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
+alias subl="/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
 
 alias gittest="cd e/KAY/Downloads/GIT\ TEST"
 
